@@ -1,0 +1,14 @@
+c:\temp\WpfBinding\bin\Debug\WpfBinding.exe.config
+c:\temp\WpfBinding\bin\Debug\WpfBinding.exe
+c:\temp\WpfBinding\bin\Debug\WpfBinding.pdb
+c:\temp\WpfBinding\obj\Debug\WpfBinding.csprojResolveAssemblyReference.cache
+c:\temp\WpfBinding\obj\Debug\MainWindow.g.cs
+c:\temp\WpfBinding\obj\Debug\App.g.cs
+c:\temp\WpfBinding\obj\Debug\WpfBinding_MarkupCompile.cache
+c:\temp\WpfBinding\obj\Debug\WpfBinding_MarkupCompile.lref
+c:\temp\WpfBinding\obj\Debug\MainWindow.baml
+c:\temp\WpfBinding\obj\Debug\WpfBinding.g.resources
+c:\temp\WpfBinding\obj\Debug\WpfBinding.Properties.Resources.resources
+c:\temp\WpfBinding\obj\Debug\WpfBinding.csproj.GenerateResource.Cache
+c:\temp\WpfBinding\obj\Debug\WpfBinding.exe
+c:\temp\WpfBinding\obj\Debug\WpfBinding.pdb
