@@ -1,9 +1,9 @@
-C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWork.dll.config
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWork.dll
-C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWork.pdb
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.xml
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
-C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWork.csprojResolveAssemblyReference.cache
-C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWork.dll
-C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWork.pdb
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.dll.config
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.pdb
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.pdb

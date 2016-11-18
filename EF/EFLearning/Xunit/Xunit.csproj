@@ -65,9 +65,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntityFrameWork\EntityFrameWork.csproj">
+    <ProjectReference Include="..\EntityFrameWork\EntityFrameWorkSTV.csproj">
       <Project>{4b1e1d07-24c9-4e41-a231-569d7bcabb15}</Project>
-      <Name>EntityFrameWork</Name>
+      <Name>EntityFrameWorkSTV</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

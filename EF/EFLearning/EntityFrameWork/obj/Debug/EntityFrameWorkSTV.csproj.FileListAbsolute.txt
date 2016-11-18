@@ -1,0 +1,9 @@
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.dll.config
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFrameWorkSTV.pdb
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.dll
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.pdb

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EntityFrameWork;
+using EntityFrameWorkSTV;
 
 //https://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
 
@@ -16,7 +17,7 @@ namespace Xunit
 
         public BuildReal()
         {
-            this.DataContext = new EntityFrameWork.DataContext1();
+            this.DataContext = new DataContext1();
         }
 
         [Fact]

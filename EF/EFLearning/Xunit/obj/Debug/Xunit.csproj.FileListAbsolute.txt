@@ -5,7 +5,6 @@ C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.abstractions.dll
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.assert.dll
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.core.dll
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.execution.desktop.dll
-C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWork.pdb
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWork.xml
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.abstractions.xml
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.assert.pdb
@@ -17,3 +16,6 @@ C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\xunit.execution.desktop.xml
 C:\repos\Exodus\EF\EFLearning\Xunit\obj\Debug\Xunit.csprojResolveAssemblyReference.cache
 C:\repos\Exodus\EF\EFLearning\Xunit\obj\Debug\Xunit.dll
 C:\repos\Exodus\EF\EFLearning\Xunit\obj\Debug\Xunit.pdb
+C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\Xunit.dll.config
+C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWorkSTV.dll
+C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWorkSTV.pdb
