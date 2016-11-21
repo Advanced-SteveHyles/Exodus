@@ -22,8 +22,7 @@ namespace Xunit
 
         [Fact]
         public void BuildMe()
-        {
-            
+        {            
            Assert.True(true); 
         }
 

@@ -7,7 +7,7 @@ namespace EntityFrameWorkSTV
     public class DataContext1 : DbContext
     {
         public DataContext1() : base("DataContext")
-        {
+        {            
         }
     
         public DbSet<Student> Students { get; set; }

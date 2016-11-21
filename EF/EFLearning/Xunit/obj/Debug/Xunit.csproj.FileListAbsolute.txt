@@ -19,3 +19,5 @@ C:\repos\Exodus\EF\EFLearning\Xunit\obj\Debug\Xunit.pdb
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\Xunit.dll.config
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWorkSTV.dll
 C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFrameWorkSTV.pdb
+C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\Exodus\EF\EFLearning\Xunit\bin\Debug\EntityFramework.SqlServer.xml

@@ -7,3 +7,4 @@ C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.xml
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.dll
 C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.pdb
+C:\repos\Exodus\EF\EFLearning\EntityFrameWork\obj\Debug\EntityFrameWorkSTV.csprojResolveAssemblyReference.cache
